@@ -1,0 +1,15 @@
+[{
+  "Name": "bintest",
+  "Description": "Bintest plugin",
+  "Website": "https://github.com/henkvanderspek/MicroPlugins",
+  "Tags": ["lua", "bintest"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/henkvanderspek/MicroPlugins/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=1.0.3"
+      }
+    }
+  ]
+}]
